@@ -36,5 +36,9 @@ In order to authenticate, you'll need some details. If you didn't make a note of
 ## Execute
 Try running the script.
 
+---
+###### Note
+<span style="color:grey"; font-size:0.1em;>The API KEY and ApplicationID are fictitious.</span>
+
 
 [1]: https://api.quickfile.co.uk/#2
