@@ -5,7 +5,7 @@
 1. Register for an API key by creating an App: QuickFile > Account Settings > 3rd Party Integration > API
 2. Click **Create a new App**.
 3. Give your application a name and a description.
-4. Select which methods you want to use (Ctrl+click for multiple selection) and click **Add selected**.
+4. Select which method(s) you want to use (Ctrl+click for multiple selection) and click **Add selected**.
 5. Click **Save Application**.
 6. Make a note of your "AccNumber" and "ApplicationID".
 7. Click **Click here to return to the App Overview screen**.
