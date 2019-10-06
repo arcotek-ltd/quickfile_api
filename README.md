@@ -3,12 +3,12 @@
   
 ## Register your App
 1. Register for an API key by creating an App: QuickFile > Account Settings > 3rd Party Integration > API
-  1.1 Click **Create a new App**.
-  1.2 Give your application a name and a description.
-  1.3 Select which methods you want to use (Ctrl+click for multiple selection) and click **Add selected**.
-  1.4 Click **Save Application**.
-  1.5 Make a note of your "AccNumber" and "ApplicationID".
-  1.6 Click **Click here to return to the App Overview screen**.
+2. Click **Create a new App**.
+3. Give your application a name and a description.
+4. Select which methods you want to use (Ctrl+click for multiple selection) and click **Add selected**.
+5. Click **Save Application**.
+6. Make a note of your "AccNumber" and "ApplicationID".
+7. Click **Click here to return to the App Overview screen**.
 
 ## Gather your account details
 In order to authenticate, you'll need some details. If you didn't make a note of these details when you created the app, follow:
