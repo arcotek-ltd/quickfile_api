@@ -15,7 +15,8 @@ In order to authenticate, you'll need some details. If you didn't make a note of
 1. Navigate to Account Settings > 3rd Party Integration > API
 2. At the top, to the right of the "Create a new App" button will be your "Account API KEY".
 3. Find your application in the list (probably only one) and to the right click the blue question mark.
-4.  Make a note of your AppID. **NOTE: THIS IS DIFFERENT TO YOUR ACCOUNT API KEY**.
+4. Make a note of your AppID. **NOTE: THIS IS DIFFERENT TO YOUR ACCOUNT API KEY**.
+     ![API KEY](https://github.com/arcotek-ltd/quickfile_api/blob/master/images/API_KEY.png)
 5. Get your account number from the top right of the QuickFile browser window (below your company name).
 
 ## Authenticating.
