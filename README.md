@@ -38,7 +38,7 @@ Try running the script.
 
 ---
 ###### Note
-<span style="color:grey"; font-size:0.1em;>The API KEY and ApplicationID are fictitious.</span>
+<span style="color:grey; font-size:0.1em;">The API KEY and ApplicationID are fictitious.</span>
 
 
 [1]: https://api.quickfile.co.uk/#2
