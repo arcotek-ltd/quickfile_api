@@ -28,7 +28,6 @@ $Payload = [ordered]@{
         }
         # Modify according to your method. See QuickFile documentation
         "Body" = @{
-            "@xmlns" = "https://api.quickfile.co.uk"
             "AccountDetails" = @{
                 "AccountNumber" = $AccountNumber
                 "ReturnVariables" = @{
@@ -43,6 +42,7 @@ $jsonPayload = $Payload| ConvertTo-Json -Depth 5
 
 $Request = Invoke-WebRequest -Uri $Endpoint -Method Post -Body $jsonPayload
 $oData = $Request.Content | ConvertFrom-Json
+
 $oData.System_GetAccountDetails.Body.AccountDetails
 
 $oData.System_GetAccountDetails.Body.AccountDetails.Tel
